@@ -46,4 +46,8 @@ function PageTransitions() {
     });
 }
 
+function anchorBtnSubmit() {
+    document.getElementById("contact-form").submit();
+}
+
 PageTransitions();
